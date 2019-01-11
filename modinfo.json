@@ -1,0 +1,28 @@
+{
+    "author": "Grand Homie",
+    "build": "112589",
+    "context": "client",
+    "date": "2019-01-11",
+    "description": "Adds 3 simple biomes to the system editor: grass (grass without reclaimable trees), sandstone (desert only) and arctic (ice only).",
+    "display_name": "Simple Biomes Client",
+    "forum": "https://forums.planetaryannihilation.com/threads/simple-biomes.73248/",
+    "icon": "https://i.imgur.com/CpfqFdx.png",
+    "identifier": "com.pa.grandhomie.simplebiomes.client-dev",
+    "signature": "not yet implemented",
+    "version": "1.0",
+    "priority": 100,
+    "category": [
+        "biomes"
+    ],
+    "companions": [
+        
+    ],
+    "dependencies": [
+        
+    ],
+    "scenes": {
+        "system_editor": [
+            "coui://ui/mods/simplebiomes/simplebiomes.js"
+        ]
+    }
+}

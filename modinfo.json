@@ -1,15 +1,15 @@
 {
-    "author": "Grand Homie",
+    "author": "Grand Homie, Dissonant",
     "build": "113132",
     "context": "client",
-    "date": "2019-06-04",
-    "description": "Adds 3 simple biomes to the system editor: grass (grass without reclaimable trees), sandstone (desert only), arctic (ice only), and gas_small (gas giant with lower minimum size).",
+    "date": "2019-06-05",
+    "description": "Adds 4 simple biomes to the system editor: grass (grass without reclaimable trees), sandstone (desert only), arctic (ice only), and gas_small (gas giant with lower minimum size).",
     "display_name": "Simple Biomes - Client",
     "forum": "https://forums.planetaryannihilation.com/threads/simple-biomes.73248/",
     "icon": "https://i.imgur.com/CpfqFdx.png",
     "identifier": "com.pa.grandhomie.simplebiomes.client",
     "signature": "not yet implemented",
-    "version": "1.2",
+    "version": "1.3",
     "priority": 100,
     "category": [
         "biomes"
